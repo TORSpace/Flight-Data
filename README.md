@@ -9,4 +9,4 @@ Official download link for the Altimeter we use: http://entacore.com/electronics
 
 ## Feedback
 
-If you have any feedback, please reach out to us at management@torspace.de
+If you have any feedback, please reach out to us at management@torspace.net
